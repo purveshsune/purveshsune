@@ -25,38 +25,32 @@ I am committed to continuous improvement, keeping pace with emerging technologie
 ### ☁️ Cloud Platforms & Services
 - **AWS** | AWS Lambda | CloudFormation | IAM | DynamoDB | S3 | Kinesis | Secrets Manager   
 
----
 
 ### 🚀 DevOps Tools
 - Terraform | Kubernetes | Docker | Jenkins | CodePipeline | CodeBuild | CodeDeploy | Git | GitHub | GitLab | SonarQube
  
----
 
 ### 🛠 Monitoring & Logging
 - Grafana | Prometheus | CloudWatch  
 
----
 
 ### ⚙️ Programming & Scripting
 - Python | Java | C++ | Bash | PowerShell | Shell Scripting  
 
----
 
 ### 🗃 Databases
 - MySQL | DynamoDB  
 
----
 
 ### ☎️ Contact Center Features
 - Amazon Connect Features:  
 Historical Metrics | Real-Time Metrics | IVR | Call Flows | Queues and Prompts | Routing Profiles | Agent/User Management  
 
----
 
 ### 🎯 Other Skills & Tools
 - ServiceNow | Maven | CloudFormation Policies
 
-
+---
 
 # 📬 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/purveshsune)
