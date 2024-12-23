@@ -1,5 +1,9 @@
 # 👋 Hello, I'm Purvesh Sune
 
+
+<iframe src="https://giphy.com/embed/LMt9638dO8dftAjtco" width="64" height="64" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/devrock-python-django-edr-LMt9638dO8dftAjtco">via GIPHY</a></p>
+
+
 I am an **AWS DevOps Engineer** specializing in leveraging **AWS Cloud** to design, build, and optimize scalable, secure, and efficient DevOps solutions. My role involves driving automation, streamlining CI/CD pipelines, and enhancing system reliability to empower seamless operations and deliver exceptional outcomes for clients.
 
 ### 🎓 Education & Certifications
@@ -38,3 +42,4 @@ I am committed to continuous improvement, keeping pace with emerging technologie
 - 🌍 [GitHub Profile](https://github.com/purveshsune)
 
 Feel free to reach out for collaborations, ideas, or discussions on cloud technologies and DevOps practices!
+
