@@ -20,18 +20,41 @@ I am committed to continuous improvement, keeping pace with emerging technologie
 
 ---
 
-### 🧑‍💻 Skills Showcase
+# 🧑‍💻 Skills Showcase
 
-#### Cloud & DevOps Tools
-<img src="https://media.giphy.com/media/Xf6I6N4pVWXW71GV9m/giphy.gif" alt="Terraform" width="64" height="64">  <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" alt="Kubernetes" width="64" height="64">  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Docker" width="64" height="64">  <img src="https://media.giphy.com/media/xTiTnyGTer2CcJyzks/giphy.gif" alt="AWS" width="64" height="64">  <img src="https://media.giphy.com/media/qj1YpAQs2wfUdLiBM2/giphy.gif" alt="AWS Lambda" width="64" height="64">  <img src="https://media.giphy.com/media/RMwO7fKytw2EjtJyYM/giphy.gif" alt="GitLab" width="64" height="64">  <img src="https://media.giphy.com/media/gLNwfgjRVkCfC/giphy.gif" alt="Jenkins" width="64" height="64">
-
-#### Programming & Scripting
-<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="Python" width="64" height="64">  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Shell Scripting" width="64" height="64">  <img src="https://media.giphy.com/media/LNYVNH13qP8VXyIeqT/giphy.gif" alt="MySQL" width="64" height="64">
-
-#### Monitoring & Orchestration
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Prometheus" width="64" height="64">  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Grafana" width="64" height="64">  <img src="https://media.giphy.com/media/LTzwzRAu5Bhy4dcCmf/giphy.gif" alt="Helm" width="64" height="64">  <img src="https://media.giphy.com/media/UrsUNVfOqdXoO/giphy.gif" alt="Linux" width="64" height="64">
+### ☁️ Cloud Platforms & Services
+- **AWS** | AWS Lambda | CloudFormation | IAM | DynamoDB | S3 | Kinesis | Secrets Manager   
 
 ---
+
+### 🚀 DevOps Tools
+- Terraform | Kubernetes | Docker | Jenkins | CodePipeline | CodeBuild | CodeDeploy | Git | GitHub | GitLab | SonarQube
+ 
+---
+
+### 🛠 Monitoring & Logging
+- Grafana | Prometheus | CloudWatch  
+
+---
+
+### ⚙️ Programming & Scripting
+- Python | Java | C++ | Bash | PowerShell | Shell Scripting  
+
+---
+
+### 🗃 Databases
+- MySQL | DynamoDB  
+
+---
+
+### ☎️ Contact Center Features
+- Amazon Connect Features:  
+Historical Metrics | Real-Time Metrics | IVR | Call Flows | Queues and Prompts | Routing Profiles | Agent/User Management  
+
+---
+
+### 🎯 Other Skills & Tools
+- ServiceNow | Maven | CloudFormation Policies
 
 ### 📬 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/purveshsune)
