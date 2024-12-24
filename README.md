@@ -4,6 +4,7 @@ I am an **AWS DevOps Engineer** specializing in leveraging **AWS Cloud** to desi
 
 ### 🎓 Education & Certifications
 With a strong foundation in **Computer Science** from the **Government College of Engineering, Nagpur**, and multiple industry-recognized **AWS certifications**, I focus on utilizing modern cloud technologies and automation to meet dynamic enterprise demands.
+
 Certifications - 
 AWS Certified Developer - Associate
 AWS Certified SysOps Administrator – Associate
