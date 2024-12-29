@@ -21,48 +21,44 @@ AWS Certified Solutions Architect – Associate
 - 🔄 **CI/CD Pipelines:** Building and optimizing workflows with **Jenkins**, **GitHub Actions**, **GitLab CI**, and **AWS CodePipeline**.
 - 📈 **Monitoring & Logging:** Implementing solutions with **Prometheus**, **Grafana**, and **CloudWatch** for reliability and insights.
 
----
-
-### 💡 Passion for Learning
-I am committed to continuous improvement, keeping pace with emerging technologies to deliver cutting-edge solutions. I love tackling complex challenges and collaborating on innovative projects to drive organizational goals forward.
 
 ---
 
 # 🧑‍💻 Skills Showcase
 
-### ☁️ Cloud Platforms & Services
-- **AWS** | AWS Lambda | CloudFormation | IAM | DynamoDB | S3 | Kinesis | Secrets Manager   
+### ☁️ Cloud & DevOps Platforms
+AWS, Docker, Kubernetes, Terraform  
 
 
-### 🚀 DevOps Tools
-- Terraform | Kubernetes | Docker | Jenkins | CodePipeline | CodeBuild | CodeDeploy | Git | GitHub | GitLab | SonarQube
+### 🚀 CI/CD & Automation:
+Jenkins, AWS CodePipeline, Terraform, Ansible, AWS CloudFormation, Github
  
 
-### 🛠 Monitoring & Logging
-- Grafana | Prometheus | CloudWatch  
+### 🛠 Programming & Scripting
+Python, Bash, Shell scripting, Java, Git
 
 
-### ⚙️ Programming & Scripting
-- Python | Java | C++ | Bash | PowerShell | Shell Scripting  
+### ⚙️ Monitoring & Debugging
+AWS CloudWatch, Prometheus, Grafana
 
 
-### 🗃 Databases
-- MySQL | DynamoDB  
+### 🗃 Databases & Security Tools
+DynamoDB, S3, MySQL, IAM, Secrets Manager, Parameter Store
 
 
 ### ☎️ Contact Center Features
-- Amazon Connect Features:  
-Historical Metrics | Real-Time Metrics | IVR | Call Flows | Queues and Prompts | Routing Profiles | Agent/User Management  
+Amazon Connect, Historical Metrics, Real-Time Metrics, IVR, Call Flows, Queues and Prompts, Routing Profiles, Agent/User Management  
 
 
 ### 🎯 Other Skills & Tools
-- ServiceNow | Maven | CloudFormation Policies
+ServiceNow, Maven, CloudFormation Policies
 
 ---
 
 # 📬 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/purveshsune)
 - 🌍 [GitHub Profile](https://github.com/purveshsune)
+- Email - purvesh.sune.5@gmail.com
 
 Feel free to reach out for collaborations, ideas, or discussions on cloud technologies and DevOps practices!
 
