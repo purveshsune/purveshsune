@@ -55,10 +55,10 @@ ServiceNow, Maven, CloudFormation Policies
 
 ---
 
-# 📬 Let's Connect!
+# Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/purveshsune)
 - 🌍 [GitHub Profile](https://github.com/purveshsune)
-- Email - purvesh.sune.5@gmail.com
+- 📧 purvesh.sune.5@gmail.com
 
 Feel free to reach out for collaborations, ideas, or discussions on cloud technologies and DevOps practices!
 
