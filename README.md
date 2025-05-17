@@ -1,63 +1,58 @@
 # 👋 Hello, I'm Purvesh Sune
 
-I am an **AWS DevOps Engineer** specializing in leveraging **AWS Cloud** to design, build, and optimize scalable, secure, and efficient DevOps solutions. My role involves driving automation, streamlining CI/CD pipelines, and enhancing system reliability to empower seamless operations and deliver exceptional outcomes for clients.
+### 🚀 AWS DevOps Engineer | Cloud Automation Enthusiast | CI/CD | IaC | Monitoring
+
+I specialize in leveraging **AWS Cloud** to design, build, and optimize scalable, secure, and automated DevOps solutions. Passionate about cloud-native tools, infrastructure automation, and system resilience, I aim to deliver seamless operations and accelerate software delivery.
 
 # 🎓 Education & Certifications
-With a strong foundation in **Computer Science** from the **Government College of Engineering, Nagpur**, and multiple industry-recognized **AWS certifications**, I focus on utilizing modern cloud technologies and automation to meet dynamic enterprise demands.
+**🎓 Bachelor of Engineering (Computer Science)**  
+*Government College of Engineering, Nagpur* – CGPA: 9.29/10
 
-### 🏆 Certifications - 
-
-**✅ AWS Certified Developer - Associate**
-
-**✅ AWS Certified SysOps Administrator – Associate**
-
-**✅ AWS Certified Solutions Architect – Associate**
-
-**✅ AWS Certified Security – Specialty**
+### 🏆 AWS Certifications
+- ✅ **AWS Certified Developer – Associate**
+- ✅ **AWS Certified SysOps Administrator – Associate**
+- ✅ **AWS Certified Solutions Architect – Associate**
+- ✅ **AWS Certified Security – Specialty**
 
 ---
 
 # 🛠️ What I Do
 
-🐳 **Containerization & Orchestration:** Expertise in **Docker**, **Kubernetes**, and tools like **Helm** for managing modern workloads.
+🐳 **Containerization & Orchestration**  
+Deploy and manage scalable applications using **Docker**, **Kubernetes (EKS)**, and **Helm**.
 
-🌐 **Infrastructure as Code (IaC):** Automating infrastructure deployment with tools like **Terraform** and **AWS CloudFormation**.
+🌐 **Infrastructure as Code (IaC)**  
+Automate infrastructure provisioning with **Terraform** and **AWS CloudFormation**.
 
-🔄 **CI/CD Pipelines:** Building and optimizing workflows with **Jenkins**, **GitHub Actions**, **GitLab CI**, and **AWS CodePipeline**.
+🔄 **CI/CD Pipelines**  
+Design and maintain robust CI/CD pipelines using **Jenkins**, **GitHub Actions**, and **AWS CodePipeline**.
 
-📈 **Monitoring & Logging:** Implementing solutions with **Prometheus**, **Grafana**, and **CloudWatch** for reliability and insights.
+📈 **Monitoring & Logging**  
+Implement proactive monitoring with **CloudWatch**, **Prometheus**, and **Grafana** for performance and availability.
 
 
 ---
 
 # 🧑‍💻 Skills Showcase
 
-**☁️ Cloud & DevOps Platforms** : AWS, Docker, Kubernetes, Terraform  
-
-
-**🚀 CI/CD & Automation** : Jenkins, AWS CodePipeline, Terraform, Ansible, AWS CloudFormation, Github
- 
-
-**🛠 Programming & Scripting** : Python, Bash, Shell scripting, Java, Git
-
-
-**⚙️ Monitoring & Debugging** : AWS CloudWatch, Prometheus, Grafana
-
-
-**🗃 Databases & Security Tools** : DynamoDB, S3, MySQL, IAM, Secrets Manager, Parameter Store
-
-
-**☎️ Contact Center Features** : Amazon Connect, Historical Metrics, Real-Time Metrics, IVR, Call Flows, Queues and Prompts, Routing Profiles, Agent/User Management  
-
-
-**🎯 Other Skills & Tools** : ServiceNow, Maven, CloudFormation Policies
+**☁️ Cloud & Platforms:** AWS, Docker, Kubernetes (EKS), ECS, Lambda  
+**🚀 CI/CD & Automation:** Jenkins, GitHub Actions, AWS CodePipeline, Terraform, Ansible  
+**💻 Programming & Scripting:** Python, Bash, Shell, Java  
+**📊 Monitoring & Debugging:** CloudWatch, Prometheus, Grafana  
+**🔐 Security & IAM:** IAM, Secrets Manager, Parameter Store  
+**📞 Contact Center (Amazon Connect):** IVR, Call Flows, Routing Profiles, Real-time Metrics, Historical Metrics  
+**🛠 Tools & Utilities:** Git, Maven, ServiceNow, AWS CloudFormation, MySQL, S3, DynamoDB
 
 ---
 
-# Let's Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/purveshsune)
-- 🌍 [GitHub Profile](https://github.com/purveshsune)
-- 📧 purvesh.sune.5@gmail.com
+# 🤝 Let's Connect!
 
-Feel free to reach out for collaborations, ideas, or discussions on cloud technologies and DevOps practices!
+🔗 [LinkedIn](https://www.linkedin.com/in/purveshsune)  
+💻 [GitHub](https://github.com/purveshsune)  
+📧 purvesh.sune.5@gmail.com  
 
+Feel free to reach out for opportunities, collaborations, or a quick chat about cloud, DevOps, or automation!
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=purveshsune&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
