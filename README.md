@@ -4,6 +4,10 @@
 
 I specialize in leveraging **AWS Cloud** to design, build, and optimize scalable, secure, and automated DevOps solutions. Passionate about cloud-native tools, infrastructure automation, and system resilience, I aim to deliver seamless operations and accelerate software delivery.
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=purveshsune&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+
 # 🎓 Education & Certifications
 **🎓 Bachelor of Engineering (Computer Science)**  
 *Government College of Engineering, Nagpur* – CGPA: 9.29/10
@@ -52,7 +56,3 @@ Implement proactive monitoring with **CloudWatch**, **Prometheus**, and **Grafan
 📧 purvesh.sune.5@gmail.com  
 
 Feel free to reach out for opportunities, collaborations, or a quick chat about cloud, DevOps, or automation!
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=purveshsune&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
