@@ -4,9 +4,8 @@
 
 I specialize in leveraging **AWS Cloud** to design, build, and optimize scalable, secure, and automated DevOps solutions. Passionate about cloud-native tools, infrastructure automation, and system resilience, I aim to deliver seamless operations and accelerate software delivery.
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=purveshsune&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
+<img src="https://streak-stats.demolab.com?user=purveshsune&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
 
 # 🎓 Education & Certifications
 **🎓 Bachelor of Engineering (Computer Science)**  
