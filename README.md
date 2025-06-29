@@ -38,7 +38,7 @@ Implement proactive monitoring with **CloudWatch**, **Prometheus**, and **Grafan
 
 # 🧑‍💻 Skills Showcase
 
-**☁️ Cloud & Platforms:** AWS, Docker, Kubernetes (EKS), ECS, Lambda  
+**☁️ Cloud & Platforms:** AWS, Docker, Kubernetes, EKS, ECS, Lambda  
 **🚀 CI/CD & Automation:** Jenkins, GitHub Actions, AWS CodePipeline, Terraform, Ansible  
 **💻 Programming & Scripting:** Python, Bash, Shell, Java  
 **📊 Monitoring & Debugging:** CloudWatch, Prometheus, Grafana  
